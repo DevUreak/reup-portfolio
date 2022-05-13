@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+ 
+ <!-- Appender, Layout 설정 -->
+ <Appenders>
+  <Console name="console" target="SYSTEM_OUT">
+    <PatternLayout pattern="%m MDC%X%n"/>
+  </Console>
+  
+  <File name="file" fileName="./logs/file/sample.log" append="false">
+   <PatternLayout pattern="%d %5p [%c] %m%n"/>
+  </File>
+  
+  <Policies>
+    <SizeBasedTriggeringPolicy size="10MB" /> <!-- 10MB 용량이 초과시 DefaultRolloverStrategy 정책만큼 넘버링 -->      
+    <TimeBasedTriggeringPolicy module="true" interval="1" /><!-- 일별 로그 파일 생성-->
+   </Policies>
+ </Appenders>
+ 
+ <!-- Logger 설정 -->
+ <Loggers>
+ 
+  <Logger name="SYSLog" level="DEBUG" additivity="false">
+   <AppenderRef ref="console"/>
+   <AppenderRef ref="file"/>
+  </Logger>
+  
+  <Rootlevel="ERROR">
+   <AppenderRef ref="console"/>
+  </Root>
+  
+ </Loggers>
+ 
+</Configuration>

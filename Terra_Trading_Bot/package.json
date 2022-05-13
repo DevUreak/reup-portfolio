@@ -1,0 +1,15 @@
+{
+  "name": "terra_trading_bot",
+  "version": "1.0.0",
+  "description": "trading_bot",
+  "main": "BTLSwapBot.js",
+  "dependencies": {
+    "@terra-money/terra.js": "^1.8.10",
+    "fs": "0.0.1-security"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kbi",
+  "license": "ISC"
+}
