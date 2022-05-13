@@ -2,6 +2,15 @@
 Some sources are only partially disclosed.   
 The "pro_view.pdf" file introduces the project introduction and the technology stack.
 
+# Career
+> Niztelecom (2020.11. ~ 2022.02)
+1. 2020.11 ~ 2021.01   
+2.   
+3. 2021.03.05 ~ 2021.03.23, WEB_FAX 업무 자동화 시스템 개발 완료 (OCR 활용한 텍스트추출및 구문 분석및 API개발, 메일 자동 전송, 텍스트 자동 추출, 텍스트 자동 분석)
+
+# Awards
+> 성균관 대학교 대학원 S-Hero 대회 우수상 (2021.05 ~ 2021.10)
+
 
 # Stacks
 > Engine 
