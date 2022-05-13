@@ -1,42 +1,41 @@
-# reup-portfolio
+# Infomation
+The "pro_view.pdf" file introduces the project introduction and the technology stack.
 
-# The "pro_view.pdf" file introduces the project introduction and the technology stack.
-# Project demonstration video address : https://www.youtube.com/watch?v=GJFcXfBpwyc&list=PL_CfT_3bOcIwSZau-LcmLLy2TjfkxxQWb
 
 # Stacks
+> Engine 
+- Unreal Engine
 
-- Engine 
-# Unreal Engine
+> API
+- Google Play, Google Geocoding, Google Service, Google Maps, KaKao, 서울 공공 휴게업소
 
-- API
-# Google Play, Google Geocoding, Google Service, Google Maps, KaKao, 서울 공공 휴게업소
+> library 
+- Jackson, Gson, Sodium, OpenCV, baoyzlistview, DNAstudio/MobileUtils, Protocol Buffer, Google Vision OCR, Terra.js 
 
-- library 
-# Jackson, Gson, Sodium, OpenCV, baoyzlistview, DNAstudio/MobileUtils, Protocol Buffer, Google Vision OCR, Terra.js 
+> WebServer
+- Apache, Ngnix, IIS
 
-- WebServer
-# Apache, Ngnix, IIS
+> DataBase
+- MySQL, Maria, MSSQL
 
-- DataBase
-# MySQL, Maria, MSSQL
+> OS
+- Ubuntu, Centos
 
-- OS
-# Ubuntu, Centos
+> Protocol
+- TCP/IP, HTTP 
 
-- Protocol
-# TCP/IP, HTTP 
+> FrameWork
+- Netty, MINA, Bootstrap, Spring Boot, .net Core
 
-- FrameWork
-# Netty, MINA, Bootstrap, Spring Boot, .net Core
+> Cloud & Tool & Toolkit
+- AWS, FireBase, Jmeter, Iperl, Wireshark, Git, Docker
 
-- Cloud & Tool & Toolkit
-# AWS, FireBase, Jmeter, Iperl, Wireshark, Git, Docker
+> Language
+- C#, C++, PHP, JAVA, JavaScript, Solidity, Swift
 
-- Language
-# C#, C++, PHP, JAVA, JavaScript, Solidity, Swift
-
-- RunTime
-# NodeJS
+> RunTime
+- NodeJS
   
 
-
+# Project demonstration video address
+https://www.youtube.com/watch?v=GJFcXfBpwyc&list=PL_CfT_3bOcIwSZau-LcmLLy2TjfkxxQWb
