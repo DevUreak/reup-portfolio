@@ -42,7 +42,7 @@ The "pro_view.pdf" file introduces the project introduction and the technology s
 - Netty, MINA, Bootstrap, Spring Boot, .net Core
 
 > Cloud & Tool & Toolkit
-- AWS, FireBase, Jmeter, Iperl, Wireshark, Git, Docker
+- AWS, FireBase, Jmeter, Iperl, Wireshark, Git, Docker, TortoiseSVN
 
 > Language
 - C#, C++, PHP, JAVA, JavaScript, Solidity, Swift
