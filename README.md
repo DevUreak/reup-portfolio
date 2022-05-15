@@ -41,7 +41,7 @@ The "pro_view.pdf" file introduces the project introduction and the technology s
 > FrameWork
 - Netty, MINA, Bootstrap, Spring Boot, .net Core
 
-> Cloud & Tool & Toolkit
+> Cloud & Tool & Toolkit & infra
 - AWS, FireBase, Jmeter, Iperl, Wireshark, Git, Docker, TortoiseSVN
 
 > Language
