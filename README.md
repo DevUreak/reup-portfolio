@@ -1,6 +1,6 @@
 # Infomation
 Some sources are only partially disclosed.   
-The "pro_view.pdf" file introduces the project introduction and the technology stack.
+The 'pro_view.pdf' file introduces the project introduction and the technology stack.
 
 # Career
 > Niztelecom (2020.11. ~ 2022.02)
