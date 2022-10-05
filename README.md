@@ -56,4 +56,5 @@ The 'pro_view.pdf' file introduces the project introduction and the technology s
   
 
 # Project demonstration video address
-https://www.youtube.com/watch?v=GJFcXfBpwyc&list=PL_CfT_3bOcIwSZau-LcmLLy2TjfkxxQWb
+1. https://youtu.be/5RCWVM8WV0o
+2. https://www.youtube.com/watch?v=GJFcXfBpwyc&list=PL_CfT_3bOcIwSZau-LcmLLy2TjfkxxQWb
