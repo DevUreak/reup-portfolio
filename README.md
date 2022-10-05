@@ -48,7 +48,7 @@ The 'pro_view.pdf' file introduces the project introduction and the technology s
 ### CHAIN
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"> <img src="https://img.shields.io/badge/Polygon-512BD4?style=for-the-badge&logo=Polygon&logoColor=white">
 
-### ClOUDE
+### ClOUD
  <img src="https://img.shields.io/badge/Google Cloude-4285F4?style=for-the-badge&logo=Google Cloude&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
  
 ### PLATFORM
